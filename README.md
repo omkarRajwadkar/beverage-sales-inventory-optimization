@@ -61,9 +61,6 @@ I developed the following core DAX measures to drive the analysis:
 - **Insight:** Sales of premium beverages were 40% higher in urban store locations compared to rural ones.
 - **Recommendation:** Develop region-specific product assortments and promotions.
 
-## 📸 Dashboard Preview
-![Power BI Dashboard Screenshot](PowerBI_Dashboard/Dashboard_Screenshot.png)
-*The interactive dashboard provided a holistic view of sales, inventory, and profitability across regions and product categories.*
 
 ## 🚀 How to Explore This Project
 1. **View the Presentation:** The `Presentation/` folder contains the final PowerPoint deck presented to judges.
