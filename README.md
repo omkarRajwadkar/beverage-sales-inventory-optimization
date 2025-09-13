@@ -78,8 +78,8 @@ I developed the following core DAX measures to drive the analysis:
 
 ## 👨‍💻 Author
 **Your Name**
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Portfolio](https://yourwebsite.com/)
+- [LinkedIn](www.linkedin.com/in/omkarrajwadkar)
+
 
 ---
 **⭐ Feel free to star this repo if you found it helpful!**
