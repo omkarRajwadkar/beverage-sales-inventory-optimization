@@ -43,7 +43,6 @@ I developed the following core DAX measures to drive the analysis:
 | **Profit Margin** | `(Total Profit / Total Sales)` |
 | **Inventory Turnover** | `SUM(Bottles Sold) / AVERAGE(Inventory)` |
 | **Stockout Rate** | Percentage of items with zero stock. |
-| **MoM Sales Growth** | Month-over-Month sales percentage change. |
 
 ## 🔍 Main Insights & Recommendations
 ### 1. Sales Performance
