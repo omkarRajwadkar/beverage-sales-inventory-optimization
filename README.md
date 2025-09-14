@@ -41,7 +41,6 @@ I developed the following core DAX measures to drive the analysis:
 | **Total Sales** | Calculate total revenue. |
 | **Total Profit** | `SUMX(Sales, (Retail - Cost) * Quantity)` |
 | **Profit Margin** | `(Total Profit / Total Sales)` |
-| **Inventory Turnover** | `SUM(Bottles Sold) / AVERAGE(Inventory)` |
 | **Stockout Rate** | Percentage of items with zero stock. |
 
 ## 🔍 Main Insights & Recommendations
